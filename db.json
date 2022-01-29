@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "adib",
+      "email": "adibjadidi744@gmail.com",
+      "phoneNumber": "09216281142",
+      "password": "aq1sw2de3",
+      "passwordConfirm": "aq1sw2de3",
+      "gender": "0",
+      "nationality": "US",
+      "intrests": ["React.js", "Vue.js"],
+      "terms": true
+    }
+  ]
+}
